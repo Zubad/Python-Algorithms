@@ -2,7 +2,7 @@
 Python: Implementation of different Algorithm for Beginners
 
 
-	Algorithm is a step by step process of solving any problem. In programming, sequential steps which are used perform a task on computer is called algotrithm.
+	Algorithm is a step by step process of solving any problem. In computer science or programming, sequential steps which are used to perform a task on computer is called an algotrithm.
 
 	Every Algorithm has following characteristics:
 
