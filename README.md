@@ -4,7 +4,8 @@ Python: Implementation of different Algorithm for Beginners
 
 	"In computer science or programming, sequential steps which are used to perform a task on computer is called an algorithm. In our daily life, step by step process of solving any problem is called an algorithm."
 
-	Every Algorithm has following characteristics:
+
+Every Algorithm has following characteristics:
 
 1. Complexity:
 	Time Complexity (How much memory does it require)
