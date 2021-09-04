@@ -39,25 +39,33 @@ Every Algorithm has following characteristics:
 	Big-O notaion classifies the performance of an algorithm according to data size (When data given as input increases of decreases). "O" indicates the order of operation, such as time scale to perform an operation. Big-O has terms like O(1), O(logn), O(n), O(n logn) and O(n^2) which represent constant time, logarithmic, linear time, log lonear and quadratic respectively.
 
 If you are working with Algorithms, you also, often,  need #Data_Structures. Algorithms and data structures go hand in hand in programming. Most, if not all, algorithms are made to work with data and we need a space and form in which data is going to be stored. Here comes data structures. We have many types of data structures these are used to store and organize data in such a way that it can be processed by given algorithms efficiently. Different scenarios need different algorithms as well as different data structutes to perform a particular tas
+
 Following are some most commonly used data structures.
-1. Arrays
-2. Linked Lists
-3. Stack
-4. Queues
-5. Trees
-6. Hash Tables
+	1. Arrays
+	2. Linked Lists
+	3. Stack
+	4. Queues
+	5. Trees
+	6. Hash Tables
 
 1. Arrays:
 	
 	"""An array is a collection of elements in which a key/index indentifies the position of particular element."""
 
-There are two types of two types of arrays:
+	There are two types of two types of arrays:
 	Time complexity of array for calculation of item index is O(1) and for insertion and deletion of element at end it is O(n).
 
 2. Linked List:
 	
 	"""A linked list is a collection of linear data elements -called nodes- which contains data and a field which points to the next element in the list."""
-	Each node contains data the applicaiton needs adn a pointer to the net element of the list. Linked list has the 
+	Each node contains data the applicaiton needs adn a pointer to the net element of the list. Linked list has the following main types:
+
+	1. Singly Linked List
+	2. Double Linked List
+
+	It has many advantages over arrays as inseriton and deletion of elements are easy and fast. (An implementation of linked list in Python is attached in repo named: Python_linkedList.py)
+
+
 
 
 
