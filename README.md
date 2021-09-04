@@ -47,12 +47,15 @@ Following are some most commonly used data structures.
 5. Trees
 6. Hash Tables
 
-A. Arrays:
+1. Arrays:
+	
 	"""An array is a collection of elements in which a key/index indentifies the position of particular element."""
+
 There are two types of two types of arrays:
 	Time complexity of array for calculation of item index is O(1) and for insertion and deletion of element at end it is O(n).
 
-Linked List:
+2. Linked List:
+	
 	"""A linked list is a collection of linear data elements -called nodes- which contains data and a field which points to the next element in the list."""
 	Each node contains data the applicaiton needs adn a pointer to the net element of the list. Linked list has the 
 
